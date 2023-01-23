@@ -13,3 +13,11 @@ Draw: There is a draw (<option>)
 Win: Well done. The computer chose <option> and failed
 For each draw, adds 50 points to the score. For each user's win, adds 100 to their score. In case of a loss, score remains the same;
 If input corresponds to anything else, outputs Invalid input;
+
+  
+Rating.txt contains the followig information:
+  
+Tim 350
+Jane 200
+Alex 400
+Bob 350
